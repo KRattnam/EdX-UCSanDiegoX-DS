@@ -5,5 +5,3 @@
 Learn to use powerful, open-source, Python tools, including Pandas, Git and Matplotlib, to manipulate, analyze, and visualize complex datasets.
 
 Part of 4-course [Data Science](https://www.edx.org/micromasters/data-science) MicroMasters program from University of San-Diego
-
-... other parts of the course to be updated as soon as I have completed it.
