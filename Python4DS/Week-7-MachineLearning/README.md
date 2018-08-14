@@ -1,7 +1,11 @@
-# UCSanDiegoX+DSE200x
+# Machine Learning
 
-[Python for Data Science](https://www.edx.org/course/python-for-data-science)
+Content:
 
-Learn to use powerful, open-source, Python tools, including Pandas, Git and Matplotlib, to manipulate, analyze, and visualize complex datasets.
+* Introduction to Machine Learning 
 
-Part of 4-course [Data Science](https://www.edx.org/micromasters/data-science) MicroMasters program from University of San-Diego
+* Classification 
+
+* Clustering
+
+* Regression Analysis
