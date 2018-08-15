@@ -48,16 +48,16 @@ You may have clear next steps at the end of your analysis.  For example, you may
 
 **General Guidelines for Project Reports and Presentations:**
 
-* 1. This is academic writing. Keep it formal and coherent as a self-contained entity. Anyone reading your presentation should have a full understanding of the question, approach and the results. 
+1. This is academic writing. Keep it formal and coherent as a self-contained entity. Anyone reading your presentation should have a full understanding of the question, approach and the results. 
 
-* 2. Be professional.  You should be comfortable giving this presentation to the general public, your boss, or your academic advisor.
+2. Be professional.  You should be comfortable giving this presentation to the general public, your boss, or your academic advisor.
 
-* 3. Write for a diverse audience including:
+3. Write for a diverse audience including:
 
-  * 3a. General public: Reads only the title and abstract looking for high-level point mainly for conversational purposes.
+   3a. General public: Reads only the title and abstract looking for high-level point mainly for conversational purposes.
 
-  * 3b. A company CEO: Reads introduction, research question, findings and conclusions looking for business value and details related to that.
+   3b. A company CEO: Reads introduction, research question, findings and conclusions looking for business value and details related to that.
 
-  * 3c. An academic advisor (or company CTO): Reads the full presentation AND your Jupyter Notebook paying particular attention to technical coherence, academic value, and technical data science strengths.
+   3c. An academic advisor (or company CTO): Reads the full presentation AND your Jupyter Notebook paying particular attention to technical coherence, academic value, and technical data science strengths.
 
 Final presentation should also be for the above-mentioned three audiences. Think of the diversity of the audience. The whole point is to tell a story - so you should motivate a reader to care based on the question you are exploring, answer that question in a clear and concise manner, provide an honest appraisal of your results, and give the reader valuable insights.  Use charts whenever possible. Avoid slides with a lot of text and bullet points - break the slide into multiple slides when this happens.  Be concise!
