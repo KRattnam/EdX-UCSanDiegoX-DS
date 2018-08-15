@@ -48,11 +48,11 @@ You may have clear next steps at the end of your analysis.  For example, you may
 
 **General Guidelines for Project Reports and Presentations:**
 
-1. This is academic writing. Keep it formal and coherent as a self-contained entity. Anyone reading your presentation should have a full understanding of the question, approach and the results. 
+* 1. This is academic writing. Keep it formal and coherent as a self-contained entity. Anyone reading your presentation should have a full understanding of the question, approach and the results. 
 
-2. Be professional.  You should be comfortable giving this presentation to the general public, your boss, or your academic advisor.
+* 2. Be professional.  You should be comfortable giving this presentation to the general public, your boss, or your academic advisor.
 
-3. Write for a diverse audience including:
+* 3. Write for a diverse audience including:
 
   * a. General public: Reads only the title and abstract looking for high-level point mainly for conversational purposes.
 
