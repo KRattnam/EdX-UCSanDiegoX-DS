@@ -44,7 +44,7 @@ You may have clear next steps at the end of your analysis.For example, you may w
 
 **Step 9: Present your work!**
 Fill in this slide template to present your project: DSE_200X_Final_Project_Presentation_Template.pptx.
-[Click](#DSE_200X_Final_Project_Presentation_Template.pptx)
+[Click]{#DSE_200X_Final_Project_Presentation_Template.pptx}
 Feel free to add more slides but aim to keep your entire presentation below 20 total slides. We recommend you also attach a pdf of your Jupyter notebook to this presentation in one single pdf file to be uploaded. As you are writing, please follow the guidelines below:
 
 
