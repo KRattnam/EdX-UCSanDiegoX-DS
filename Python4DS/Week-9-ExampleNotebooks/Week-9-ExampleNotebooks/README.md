@@ -43,7 +43,7 @@ Rarely will a single data analysis conclusively answer a research question.  Her
 You may have clear next steps at the end of your analysis.  For example, you may wish to perform the same analysis in another setting or you think your findings lead to new questions.  Feel free to document these next steps.
 
 **Step 9: Present your work!**
-Fill in this slide template to present your project.  Feel free to add more slides but aim to keep your entire presentation below 20 total slides.  We recommend you also attach a pdf of your Jupyter notebook to this presentation in one single pdf file to be uploaded.   As you are writing, please follow the guidelines below:
+[Fill in this slide template to present your project](#DSE 200X_ Final Project Presentation Template.pptx).  Feel free to add more slides but aim to keep your entire presentation below 20 total slides.  We recommend you also attach a pdf of your Jupyter notebook to this presentation in one single pdf file to be uploaded.   As you are writing, please follow the guidelines below:
 
 
 **General Guidelines for Project Reports and Presentations:**
@@ -54,10 +54,10 @@ Fill in this slide template to present your project.  Feel free to add more slid
 
 3. Write for a diverse audience including:
 
-  a. General public: Reads only the title and abstract looking for high-level point mainly for conversational purposes.
+  * a. General public: Reads only the title and abstract looking for high-level point mainly for conversational purposes.
 
-  b. A company CEO: Reads introduction, research question, findings and conclusions looking for business value and details related to that.
+  * b. A company CEO: Reads introduction, research question, findings and conclusions looking for business value and details related to that.
 
-  c. An academic advisor (or company CTO): Reads the full presentation AND your Jupyter Notebook paying particular attention to technical coherence, academic value, and technical data science strengths.
+  * c. An academic advisor (or company CTO): Reads the full presentation AND your Jupyter Notebook paying particular attention to technical coherence, academic value, and technical data science strengths.
 
 Final presentation should also be for the above-mentioned three audiences. Think of the diversity of the audience. The whole point is to tell a story - so you should motivate a reader to care based on the question you are exploring, answer that question in a clear and concise manner, provide an honest appraisal of your results, and give the reader valuable insights.  Use charts whenever possible. Avoid slides with a lot of text and bullet points - break the slide into multiple slides when this happens.  Be concise!

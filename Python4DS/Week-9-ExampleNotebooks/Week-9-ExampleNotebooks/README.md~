@@ -1,6 +1,8 @@
-# Final Project Part 1
+# Final Project
 
 This project is culmination of all you’ve learned in this course!  We’ve allotted you two weeks to work on this project and you should expect to spend 10-20 hours total on the project. 
+
+## Week 9
 
 **Step 1:  Find a dataset or datasets**
 Based on your interest, identify a dataset which you will want to examine.  There is a reading this week on where you can find open datasets, but feel free to use other datasets you have access to and care publicly share results about.  Or, feel free to create your own dataset by getting data from the web using tools you learned in Week 8.
@@ -25,3 +27,37 @@ Now that you have a better understanding of the data, you will want to form a re
 
 **Step 4:  Describe your dataset(s) and your research question(s) at the end of Week 9 in the Project Checkpoint.**
 
+
+## Week 10
+
+**Step 5:  Identify your research methods**
+Based on your research question, you can now describe how you will go about answering that question.  Your methods will depend on the question being asked.  For example, if you are looking for a relationship between two items (say, CO2 emissions and GDP), you may wish to use scatter plots and statistical correlation.  If you are trying to predict an outcome based on input data, you’ll need to identify the appropriate methods from the week on Machine Learning.  Be sure to document, in your notebook, your research methods.
+
+**Step 6:  Present your findings**
+In this step, you can begin to report your findings.  What did you learn from the data and how do your findings help answer your research question?  Use visualizations to present these findings.
+
+**Step 7:  Identify limitations to your conclusions**
+Rarely will a single data analysis conclusively answer a research question.  Here, you need to identify possible limitations.  For example, are your results limited to a certain area, city, or country?  Are you making assumptions about the data which may, or may not, be valid (e.g., that students in one term are equally qualified as students in another)?  Document these limitations.
+
+**Step 8:  (Optional) Identify future work**
+You may have clear next steps at the end of your analysis.  For example, you may wish to perform the same analysis in another setting or you think your findings lead to new questions.  Feel free to document these next steps.
+
+**Step 9: Present your work!**
+Fill in this slide template to present your project.  Feel free to add more slides but aim to keep your entire presentation below 20 total slides.  We recommend you also attach a pdf of your Jupyter notebook to this presentation in one single pdf file to be uploaded.   As you are writing, please follow the guidelines below:
+
+
+**General Guidelines for Project Reports and Presentations:**
+
+1. This is academic writing. Keep it formal and coherent as a self-contained entity. Anyone reading your presentation should have a full understanding of the question, approach and the results. 
+
+2. Be professional.  You should be comfortable giving this presentation to the general public, your boss, or your academic advisor.
+
+3. Write for a diverse audience including:
+
+  a. General public: Reads only the title and abstract looking for high-level point mainly for conversational purposes.
+
+  b. A company CEO: Reads introduction, research question, findings and conclusions looking for business value and details related to that.
+
+  c. An academic advisor (or company CTO): Reads the full presentation AND your Jupyter Notebook paying particular attention to technical coherence, academic value, and technical data science strengths.
+
+Final presentation should also be for the above-mentioned three audiences. Think of the diversity of the audience. The whole point is to tell a story - so you should motivate a reader to care based on the question you are exploring, answer that question in a clear and concise manner, provide an honest appraisal of your results, and give the reader valuable insights.  Use charts whenever possible. Avoid slides with a lot of text and bullet points - break the slide into multiple slides when this happens.  Be concise!
