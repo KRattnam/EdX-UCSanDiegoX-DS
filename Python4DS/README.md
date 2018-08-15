@@ -7,5 +7,5 @@ Learn to use powerful, open-source, Python tools, including Pandas, Git and Matp
 Part of 4-course [Data Science](https://www.edx.org/micromasters/data-science) MicroMasters program from University of San-Diego
 
 ## Datasets
-If you need datasets: [Where to find datasets](datasets.md)
+Where to find datasets?: [Click here](datasets.md)
 
