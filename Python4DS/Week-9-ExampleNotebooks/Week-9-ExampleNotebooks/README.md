@@ -37,14 +37,14 @@ Based on your research question, you can now describe how you will go about answ
 In this step, you can begin to report your findings.  What did you learn from the data and how do your findings help answer your research question?  Use visualizations to present these findings.
 
 **Step 7:  Identify limitations to your conclusions**
-Rarely will a single data analysis conclusively answer a research question.  Here, you need to identify possible limitations.  For example, are your results limited to a certain area, city, or country?  Are you making assumptions about the data which may, or may not, be valid (e.g., that students in one term are equally qualified as students in another)?  Document these limitations.
+Rarely will a single data analysis conclusively answer a research question. Here, you need to identify possible limitations.  For example, are your results limited to a certain area, city, or country?  Are you making assumptions about the data which may, or may not, be valid (e.g., that students in one term are equally qualified as students in another)?  Document these limitations.
 
 **Step 8:  (Optional) Identify future work**
-You may have clear next steps at the end of your analysis.  For example, you may wish to perform the same analysis in another setting or you think your findings lead to new questions.  Feel free to document these next steps.
+You may have clear next steps at the end of your analysis.For example, you may wish to perform the same analysis in another setting or you think your findings lead to new questions.  Feel free to document these next steps.
 
 **Step 9: Present your work!**
-[Fill in this slide template to present your project](#DSE 200X_ Final Project Presentation Template.pptx).  
-Feel free to add more slides but aim to keep your entire presentation below 20 total slides.  We recommend you also attach a pdf of your Jupyter notebook to this presentation in one single pdf file to be uploaded.   As you are writing, please follow the guidelines below:
+Fill in this slide template to present your project: DSE 200X_ Final Project Presentation Template.pptx.
+Feel free to add more slides but aim to keep your entire presentation below 20 total slides. We recommend you also attach a pdf of your Jupyter notebook to this presentation in one single pdf file to be uploaded. As you are writing, please follow the guidelines below:
 
 
 **General Guidelines for Project Reports and Presentations:**
