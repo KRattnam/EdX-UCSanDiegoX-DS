@@ -1,4 +1,4 @@
-[![UCSanDiego: MicroMastersTesting<sup>&reg;</sup> Program in Data Science](https://img.shields.io/badge/UCSanDiego-MicroMasters%C2%AE%20Program%20in%20Data%20Science-blue)](https://www.edx.org/micromasters/uc-san-diegox-data-science) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/cam-barts/ObeyThttps://github.com/kabartay/EdX-UCSanDiegoX-DSE200x/master/LICENSEheTestingGoat/blob/master/LICENSE)
+[![UCSanDiego: MicroMastersTesting<sup>&reg;</sup> Program in Data Science](https://img.shields.io/badge/UCSanDiego-MicroMasters%C2%AE%20Program%20in%20Data%20Science-blue)](https://www.edx.org/micromasters/uc-san-diegox-data-science) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/cam-barts/https://github.com/kabartay/EdX-UCSanDiegoX-DSE200x/master/LICENSE/blob/master/LICENSE)
 
 4-course MicroMasters program offered by UCSanDiegoX:
 
