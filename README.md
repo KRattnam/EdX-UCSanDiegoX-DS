@@ -1,6 +1,4 @@
-[![UCSanDiego: MicroMastersTesting<sup>&reg;</sup> Program in Data Science](https://img.shields.io/badge/UCSanDiego-MicroMasters%C2%AE%20Program%20in%20Data%20Science-blue)](https://www.edx.org/micromasters/uc-san-diegox-data-science) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/kabartay/EdX-UCSanDiegoX-DS/blob/master/LICENSE
-
-[![License: MIT](https://img.shields.io/github/license/kabartay/EdX-UCSanDiegoX-DS](https://github.com/kabartay/EdX-UCSanDiegoX-DS/blob/master/LICENSE)
+[![UCSanDiego: MicroMastersTesting<sup>&reg;</sup> Program in Data Science](https://img.shields.io/badge/UCSanDiego-MicroMasters%C2%AE%20Program%20in%20Data%20Science-blue)](https://www.edx.org/micromasters/uc-san-diegox-data-science) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/kabartay/EdX-UCSanDiegoX-DS/blob/master/LICENSE)
 
 4-course MicroMasters program offered by UCSanDiegoX:
 
@@ -10,7 +8,10 @@
 * [Big Data Analytics using Spark](https://www.edx.org/course/big-data-analytics-using-spark)
 
 In progress:
-* [Python for Data Science [DSE200x]](https://github.com/kabartay/EdX-UCSanDiegoX-DS/tree/master/DSE200x)
-* [Machine Learning Fundamentals [DSE220x]](https://github.com/kabartay/EdX-UCSanDiegoX-DS/tree/master/DSE220x)
+* [[DSE200x] Python for Data Science](https://github.com/kabartay/EdX-UCSanDiegoX-DS/tree/master/DSE200x)  
+* [[DSE210x] not yet]()
+* [[DSE220x] Machine Learning Fundamentals [DSE220x]](https://github.com/kabartay/EdX-UCSanDiegoX-DS/tree/master/DSE220x)  
+* [[DSE230x] not yet]()
+
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40circassia_ai)](https://twitter.com/circassia_ai)
