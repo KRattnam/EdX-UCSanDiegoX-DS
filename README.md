@@ -9,9 +9,9 @@
 
 In progress:
 * [[DSE200x] Python for Data Science](https://github.com/kabartay/EdX-UCSanDiegoX-DS/tree/master/DSE200x)  
-* [[DSE210x] not yet]()
-* [[DSE220x] Machine Learning Fundamentals [DSE220x]](https://github.com/kabartay/EdX-UCSanDiegoX-DS/tree/master/DSE220x)  
-* [[DSE230x] not yet]()
+* [[DSE210x] not yet](https://github.com/kabartay/EdX-UCSanDiegoX-DS/tree/master/DSE210x)
+* [[DSE220x] Machine Learning Fundamentals](https://github.com/kabartay/EdX-UCSanDiegoX-DS/tree/master/DSE220x)  
+* [[DSE230x] not yet](https://github.com/kabartay/EdX-UCSanDiegoX-DS/tree/master/DSE230x)
 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40circassia_ai)](https://twitter.com/circassia_ai)
