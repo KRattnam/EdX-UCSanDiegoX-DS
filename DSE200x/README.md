@@ -34,10 +34,14 @@ Learn to use powerful, open-source, Python tools, including Pandas, Git and Matp
 * NLTK (Natural Language Toolkit)  
 * Many others  
 
-## Datasets: [Click here](datasets.md)
+## Datasets:  
+[Click here](datasets.md)
 
-## Course Slides: [Click here](slides.md)
+## Course Slides:  
+[Click here](slides.md)
 
-## Course Notebooks: [Click here](notebooks.md)
+## Course Notebooks:  
+[Click here](notebooks.md)
 
-## Exercise Notebooks: [Click here](exercises.md)
+## Exercise Notebooks:  
+[Click here](exercises.md)
